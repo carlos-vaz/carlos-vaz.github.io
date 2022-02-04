@@ -10,7 +10,7 @@ I recently moved into a shared apartment in New Haven, my room being in the conv
 the three flights of stairs and my body had a chance to cool down, I sat to eat and marvel at my new abode. It was late January, and my celebratory Chipotle bowl was hot and steamy in very much the same way that my room wasn't. 
 
 The next day I went to Walmart and bought an oil-filled electric radiator, and found that while it was perfectly capable of making my large room nice and toasty, it took about an hour to do so. I 
-wished I could start the radiator remotely from my phone so that I could turn it on about an hour before I left home from work. This was the perfect opportunity to finally start 
+wished I could start the radiator remotely from my phone so that I could turn it on about an hour before I left work. This was the perfect opportunity to finally start 
 that cute little smart home project that's a rite of passage for all Linux / embedded enthusiasts. 
 
 ## Design
