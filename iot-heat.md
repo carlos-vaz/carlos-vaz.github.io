@@ -14,3 +14,4 @@ wished I could start the radiator remotely from my phone so that I could turn it
 that cute little smart home project that's a rite of passage for all Linux / embedded enthusiasts. 
 
 ## Design
+![iot-heat-diagram](https://raw.githubusercontent.com/carlos-vaz/carlos-vaz.github.io/main/images/iot-heat.png)
