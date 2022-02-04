@@ -18,3 +18,8 @@ that cute little smart home project that's a rite of passage for all Linux / emb
 
 For flexibility of use in future projects, I opted to control a power switch  instead of the temperature knobs of the radiator directly. A microcontroller and stepper motor combo, powered by the power strip, would mechanically toggle the power strip switch to control the outlets, except of course the outlet that powers the controller. This means I would have to crack open ~~a cold one~~ the power strip and disconnect
 the last outlet from the main rail, then connect it to the the power rails pre-switch. I would also have to paint the outlet with red or something and add a warning label "CAUTION: THIS OUTLET IS ALWAYS ON!". This of course so that I don't hurt myself when I rediscover the power strip next year in my parts bin. 
+
+## This is so janky, why'd you use a motor instead of a relay or something?
+Correct. 
+
+
