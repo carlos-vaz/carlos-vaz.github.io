@@ -15,5 +15,3 @@ that cute little smart home project that's a rite of passage for all Linux / emb
 
 ## Design
 ![iot-heat-diagram](https://raw.githubusercontent.com/carlos-vaz/carlos-vaz.github.io/main/images/iot-heat.png)
-
-<img src="https://raw.githubusercontent.com/carlos-vaz/carlos-vaz.github.io/main/images/iot-heat.png" alt="iot-heat-diagram" width="200"/>
